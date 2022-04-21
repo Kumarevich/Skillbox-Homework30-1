@@ -1,0 +1,37 @@
+# ninja log v5
+2	410	6721337315490675	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	733e9baa9f5ab2cb
+10182	10265	6721337414045018	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	296cebcad548fdff
+2	410	6721337315490675	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	733e9baa9f5ab2cb
+9814	10181	0	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	b2ae2bce5dbbc76d
+10529	10623	6721337417639616	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	5bf3d8cf69e32cf9
+411	9814	6721337409528134	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	3bb48eda18582377
+411	9814	6721337409528134	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	3bb48eda18582377
+9814	10181	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	b2ae2bce5dbbc76d
+10182	10265	6721337414045018	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	296cebcad548fdff
+10265	10362	6721337415027799	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	73bcd147c683b026
+10265	10362	6721337415027799	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	73bcd147c683b026
+10363	10443	6721337415846670	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	2077821b790c2a35
+10363	10443	6721337415846670	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	2077821b790c2a35
+10444	10529	6721337416689016	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	976cc337be7b59ce
+10444	10529	6721337416689016	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	976cc337be7b59ce
+10529	10623	6721337417639616	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	5bf3d8cf69e32cf9
+10624	10747	6721337418892352	CMakeFiles/zlib-populate-complete	c66c4c6ff73593f3
+10624	10747	6721337418892352	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	c66c4c6ff73593f3
+10624	10747	6721337418892352	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	c66c4c6ff73593f3
+10624	10747	6721337418892352	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	c66c4c6ff73593f3
+0	416	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	b2ae2bce5dbbc76d
+0	416	0	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	b2ae2bce5dbbc76d
+417	500	6721337581214927	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	296cebcad548fdff
+417	500	6721337581214927	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	296cebcad548fdff
+500	580	6721337582037312	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	73bcd147c683b026
+500	580	6721337582037312	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	73bcd147c683b026
+580	665	6721337582867342	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	2077821b790c2a35
+580	665	6721337582867342	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	2077821b790c2a35
+665	772	6721337583877294	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	976cc337be7b59ce
+665	772	6721337583877294	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	976cc337be7b59ce
+773	888	6721337585075638	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	5bf3d8cf69e32cf9
+773	888	6721337585075638	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	5bf3d8cf69e32cf9
+888	1028	6721337586503898	CMakeFiles/zlib-populate-complete	c66c4c6ff73593f3
+888	1028	6721337586503898	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	c66c4c6ff73593f3
+888	1028	6721337586503898	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	c66c4c6ff73593f3
+888	1028	6721337586503898	C:/Users/Igor Makarevich/CLionProjects/Homework 30-1/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	c66c4c6ff73593f3
